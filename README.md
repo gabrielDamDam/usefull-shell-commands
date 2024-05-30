@@ -1,2 +1,2 @@
 # usefull-shell-commands
-Repositório feito para compartilhar alguns comandos shell que podem ser de bom uso para o dia-a-dia
+Repositório feito para compartilhar alguns comandos shell que podem ser úteis para o dia-a-dia
